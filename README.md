@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Jadon Krekos
-- 👀 I’m interested in programming, playing music and adventuring!
+- 👀 I’m interested in programming and playing music.
 - 🌱 I’m currently creating my own projects.
 - 📫 How to reach me: jkrekos@icloud.com
